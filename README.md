@@ -1,9 +1,10 @@
 # The React Quiz
 ---
 
-- This is a React quiz app with approximately 15 questions to answer.
-- It also includes a timer and a progress bar
-- The states in this React app are managed using reducers and the Context API
+- This React quiz app features approximately 15 questions to answer
+- It includes a timer and a progress bar for an enhanced quiz experience
+- The app manages states using reducers and the Context API
+- The backend of this React Quiz App is built using Node.js and Express. It reads questions from a JSON file and handles responses
 
 ---
 
